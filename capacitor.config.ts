@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'ionic-superleuk',
-  webDir: 'dist',
+  appId: 'com.vanozi.superleukapp',
+  appName: 'Superleuk App',
+  webDir: 'public',
   bundledWebRuntime: false
 };
 
